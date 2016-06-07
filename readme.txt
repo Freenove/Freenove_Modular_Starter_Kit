@@ -21,10 +21,10 @@ References
   If you have any difficulties, you can send email to technical support for help.
 
   The references for this product is named Freenove Modular Starter Kit for Arduino, which includes the following folders and files:
-    Datasheet	    Datasheet of electronic components and modules 
-	  Libraries		  Library files of Arduino Software
-	  Sketches		  Code of Arduino Software
-	  Readme.txt	  Instructions
+    Datasheet     Datasheet of electronic components and modules 
+    Libraries     Library files of Arduino Software
+    Sketches      Code of Arduino Software
+    Readme.txt	  Instructions
     Tutorial.pdf  Tutorial
 
 Support
